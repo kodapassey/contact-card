@@ -25,5 +25,6 @@
   "homepage": "https://github.com/kodapassey/contact-card#readme",
   "dependencies": {
     "concurrently": "^7.3.0"
-  }
+  },
+  "devDependencies": {}
 }
